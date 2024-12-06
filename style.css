@@ -49,6 +49,13 @@ body {
   section {
     margin-bottom: 30px;
   }
+  .subheading {
+    line-height: 0.8;
+  }
+  
+  .details {
+    line-height: 0.8;
+  }
   
   h2 {
     font-size: 1.8rem;
